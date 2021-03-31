@@ -2,6 +2,8 @@
 
 ![xinoip stats](https://github-readme-stats.vercel.app/api?username=xinoip&hide=issues&theme=onedark)
 
+</div>
+
 ## Buğra Eren Yılmaz
 
 - Computer Engineering Student @ Gebze TU
@@ -15,5 +17,3 @@
 - [retro-engine](https://github.com/xinoip/boulderDash) / C++, SDL2
 - [boulderdash-level-editor](https://github.com/xinoip/boulderdash-level-editor) / C, SDL2
 - [edu](https://github.com/xinoip/edu) / Computer Science
-
-</div>
