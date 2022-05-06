@@ -13,6 +13,8 @@
 
 - [verilog-atpg](https://github.com/xinoip/verilog-atpg) / C++, QT, Verilog
   - Generate ATPG for fault detection on Verilog circuits.
+- [xml-raytracer](https://github.com/xinoip/xml-raytracer) / C++
+  - Multithreaded experimental, recursive raytracer that can render scenes with complex meshes and lighting.
 - [32-bit MIPS CPU](https://www.github.com/xinoip/mips32-cpu) / Verilog, Quartus
   - Designed a MIPS-like 32-bit CPU in Verilog.
 - [libvector](https://github.com/xinoip/c-vector-graphics-lib) / C
