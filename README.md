@@ -6,8 +6,8 @@
 
 ## Buğra Eren Yılmaz
 
-- Computer Engineering Student @ Gebze TU
-- Interested in FPGAs, OS Development, Embedded Development
+- Computer Engineering B.Sc. @ Gebze TU
+- Interested in OS, Embedded/RTOS development and FPGAs
 
 ## Check out My Projects
 
