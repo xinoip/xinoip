@@ -6,8 +6,6 @@
 - ⚙️ Also: FPGAs, OSDev and _metal bricks_ — because why not?
 - 💯 Neovim btw, Void Linux btw...
 
-<a href="https://www.linkedin.com/in/bugraeren/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-
 #### Some stuff
 
 - [dotfiles](https://github.com/xinoip/dotfiles) / My dotfiles to feel at `~`
@@ -17,3 +15,5 @@
 - [libvector](https://github.com/xinoip/c-vector-graphics-lib) / `C` library for creating/editing/managing SVG and EPS format vector files.
 - [retro-engine](https://github.com/xinoip/boulderDash), [level-editor](https://github.com/xinoip/boulderdash-level-editor) / yet another 2d game stuff, `C`, `SDL2`
 - [edu](https://github.com/xinoip/edu) / Computer Engineering Curriculum GTU
+
+<a href="https://www.linkedin.com/in/bugraeren/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
