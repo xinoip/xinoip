@@ -4,7 +4,7 @@
 
 - 🛠️ Mostly editing these files: `.c`, `.c++`, `.rs`, `.go`
 - ⚙️ Also: FPGAs, OSDev and _metal bricks_ — because why not?
-- 💯 Neovim btw, Void Linux btw...
+- 🐧 Neovim btw, Void Linux btw...
 
 #### Some stuff
 
