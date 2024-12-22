@@ -1,26 +1,19 @@
-<div align="center">
+### Hello there 👋
 
-![xinoip stats](https://github-readme-stats.vercel.app/api?username=xinoip&hide=issues&theme=onedark)
+#### I specialize in Embedded Systems and high-performance software development using C/C++, Rust, and Go.
 
-</div>
+- 🛠️ Mostly editing these files: `.c`, `.c++`, `.rs`, `.go`
+- ⚙️ Also: FPGAs, OSDev and _metal bricks_ — because why not?
+- 💯 Neovim btw, Void Linux btw...
 
-## Buğra Eren Yılmaz
+<a href="https://www.linkedin.com/in/bugraeren/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-- Computer Engineering B.Sc. @ Gebze TU
-- Interested in OS, Embedded/RTOS development and FPGAs
+#### Some stuff
 
-## Check out My Projects
-
-- [verilog-atpg](https://github.com/xinoip/verilog-atpg) / C++, QT, Verilog
-  - Generate ATPG for fault detection on Verilog circuits.
-- [xml-raytracer](https://github.com/xinoip/xml-raytracer) / C++
-  - Multithreaded experimental, recursive raytracer that can render scenes with complex meshes and lighting.
-- [32-bit MIPS CPU](https://www.github.com/xinoip/mips32-cpu) / Verilog, Quartus
-  - Designed a MIPS-like 32-bit CPU in Verilog.
-- [libvector](https://github.com/xinoip/c-vector-graphics-lib) / C
-  - Pure-C library for creating/editing/managing SVG and EPS format vector files.
-- [retro-engine](https://github.com/xinoip/boulderDash) / C++, SDL2
-- [boulderdash-level-editor](https://github.com/xinoip/boulderdash-level-editor) / C, SDL2
-  - Some retro game implementations in C/SDL2.
+- [dotfiles](https://github.com/xinoip/dotfiles) / My dotfiles to feel at `~`
+- [verilog-atpg](https://github.com/xinoip/verilog-atpg) / ATPG for fault detection on Verilog circuits, `C++`, `QT`
+- [32-bit MIPS CPU](https://www.github.com/xinoip/mips32-cpu) / Quartus, MIPS-like CPU design in `Verilog`
+- [xml-raytracer](https://github.com/xinoip/xml-raytracer) / Multithreaded experimental, recursive Raytracer, `C++`
+- [libvector](https://github.com/xinoip/c-vector-graphics-lib) / `C` library for creating/editing/managing SVG and EPS format vector files.
+- [retro-engine](https://github.com/xinoip/boulderDash), [level-editor](https://github.com/xinoip/boulderdash-level-editor) / yet another 2d game stuff, `C`, `SDL2`
 - [edu](https://github.com/xinoip/edu) / Computer Engineering Curriculum GTU
-- [xinoip.github.io](https://xinoip.github.io/) / My portfolio site
